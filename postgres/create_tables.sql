@@ -1,7 +1,5 @@
 CREATE SCHEMA raw;
-CREATE SCHEMA processed;
 
--- TODO: PARTITION BY
 CREATE TABLE IF NOT EXISTS raw.fire_incidents(
     "IncidentNumber" VARCHAR,
     "ExposureNumber" VARCHAR,
