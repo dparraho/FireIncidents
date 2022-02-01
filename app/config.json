@@ -1,0 +1,5 @@
+{
+    "tracklogs": false,
+    "rutaLog": "logs/",
+    "logName": "FireIncidents.log"
+}
